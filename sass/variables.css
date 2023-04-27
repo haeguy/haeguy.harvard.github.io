@@ -1,0 +1,9 @@
+ul {
+  font-size: 30px;
+  color: red;
+}
+
+ol > li {
+  font-size: 25px;
+}
+/*# sourceMappingURL=variables.css.map */

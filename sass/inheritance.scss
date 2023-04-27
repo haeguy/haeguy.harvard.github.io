@@ -1,0 +1,21 @@
+%message {
+    padding: 20px;
+    font-size: 18px;
+    margin: 20px;
+    border: 1px solid black ;
+    font-family: arial;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.success {
+    @extend %message;
+    background-color: green;       
+}
+.warning {
+    @extend %message;
+    background-color: orange;
+}
+.error {
+    @extend %message;
+    background-color: red;
+}

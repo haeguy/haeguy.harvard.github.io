@@ -1,0 +1,9 @@
+$color:red;
+
+ul {
+    font-size: 30px;
+    color: $color;
+}
+ol > li {
+    font-size: 25px;
+}

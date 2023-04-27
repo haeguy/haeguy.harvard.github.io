@@ -1,0 +1,6 @@
+{
+    "html.format.wrapAttributes": "auto",
+    "interactiveSession.editor.wordWrap": "on",
+    "diffEditor.wordWrap": "on",
+    "editor.fontSize": 16
+}
